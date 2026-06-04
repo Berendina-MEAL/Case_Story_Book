@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="BDS Case Story Book – North Central Region. A digital repository of project success stories by Berendina Development Services field officers covering Anuradhapura and Kegalle districts.">
+  <title>BDS Case Story Book – North Central Region</title>
+
+  <!-- Favicon placeholder -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%231E4D3A'/><text y='22' x='6' font-size='18' font-family='serif' font-weight='700' fill='white'>B</text></svg>">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       NAVIGATION
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <nav id="main-nav" aria-label="Main navigation">
+    <div class="container nav-inner">
+
+      <a href="index.html" class="nav-brand" aria-label="BDS Case Story Book Home">
+        <img src="assets/images/logo.jpg" alt="BDS Logo" class="nav-logo" style="object-fit:contain;background:none;">
+        <div class="nav-title">
+          <strong>BDS Case Story Book</strong>
+          <span>North Central Region</span>
+        </div>
+      </a>
+
+      <ul id="nav-menu" role="list">
+        <li><a href="#stories">Stories</a></li>
+        <li><a href="#officers">Officers</a></li>
+        <li><a href="#interventions">Interventions</a></li>
+        <li><a href="#contact" class="nav-cta">About</a></li>
+      </ul>
+
+      <button id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+
+    </div>
+  </nav>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       HERO
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section id="hero" role="banner">
+    <div class="container">
+      <div class="hero-content">
+
+        <div class="hero-region-badge">
+          <!-- Map pin icon -->
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 1 1 18 0z"/>
+            <circle cx="12" cy="10" r="3"/>
+          </svg>
+          North Central Region
+        </div>
+
+        <h1 class="hero-title">
+          Stories of <span class="highlight">Change</span><br>
+          from the Field
+        </h1>
+
+        <p class="hero-description">
+          A curated repository of case stories documenting real impact achieved by
+          Berendina Development Services officers across Anuradhapura and
+          Kegalle districts.
+        </p>
+
+        <div class="hero-actions">
+          <a href="#stories" class="btn-primary">
+            Browse Stories
+            <!-- Arrow icon -->
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/>
+            </svg>
+          </a>
+          <a href="#officers" class="btn-secondary" style="color:#fff;border-color:rgba(255,255,255,.5)">
+            Meet the Officers
+          </a>
+        </div>
+
+        <div class="hero-districts">
+          <span class="district-badge anuradhapura">Anuradhapura</span>
+          <span class="district-badge kegalle">Kegalle</span>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="hero-scroll" aria-hidden="true">
+      <span>Scroll</span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <polyline points="6 9 12 15 18 9"/>
+      </svg>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       STATISTICS
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section id="statistics" aria-labelledby="stats-heading">
+    <div class="container">
+      <div class="stats-grid">
+
+        <!-- Total Stories -->
+        <div class="stat-card" role="figure" aria-label="Total case stories">
+          <div class="stat-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+              <polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/>
+              <line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/>
+            </svg>
+          </div>
+          <div class="stat-number" id="stat-stories" data-target="0">0</div>
+          <div class="stat-label">Case Stories</div>
+        </div>
+
+        <!-- Total Officers -->
+        <div class="stat-card" role="figure" aria-label="Total field officers">
+          <div class="stat-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+              <circle cx="9" cy="7" r="4"/>
+              <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
+              <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+            </svg>
+          </div>
+          <div class="stat-number" id="stat-officers" data-target="0">0</div>
+          <div class="stat-label"> Officers</div>
+        </div>
+
+        <!-- Districts -->
+        <div class="stat-card" role="figure" aria-label="Districts covered">
+          <div class="stat-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <polygon points="3 11 22 2 13 21 11 13 3 11"/>
+            </svg>
+          </div>
+          <div class="stat-number" id="stat-districts" data-target="0">0</div>
+          <div class="stat-label">Districts</div>
+        </div>
+
+        <!-- Interventions -->
+        <div class="stat-card" role="figure" aria-label="Types of interventions">
+          <div class="stat-icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+              <circle cx="12" cy="12" r="10"/>
+              <line x1="12" y1="8" x2="12" y2="12"/>
+              <line x1="12" y1="16" x2="12.01" y2="16"/>
+            </svg>
+          </div>
+          <div class="stat-number" id="stat-interventions" data-target="0">0</div>
+          <div class="stat-label">Intervention Types</div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       FEATURED STORY
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section id="featured" aria-labelledby="featured-heading">
+    <div class="container">
+      <div class="section-header fade-in">
+        <p class="section-label">Featured</p>
+        <h2 class="section-title" id="featured-heading">Story of the Month</h2>
+        <p class="section-subtitle">An in-depth look at one of our most impactful recent interventions.</p>
+      </div>
+      <!-- Rendered by JS -->
+      <div id="featured-story"></div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       BROWSE STORIES
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section id="stories" aria-labelledby="stories-heading">
+    <div class="container">
+      <div class="section-header fade-in">
+        <p class="section-label">Repository</p>
+        <h2 class="section-title" id="stories-heading">All Case Stories</h2>
+        <p class="section-subtitle">Filter by officer, district, intervention, or search by beneficiary name.</p>
+      </div>
+
+      <!-- Filter Bar -->
+      <div class="filter-bar" role="search">
+        <!-- Search -->
+        <div class="search-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Search by beneficiary name or title…"
+            aria-label="Search stories">
+        </div>
+
+        <!-- District filter -->
+        <select id="district-filter" aria-label="Filter by district">
+          <option value="all">All Districts</option>
+          <option value="anuradhapura">Anuradhapura</option>
+          <option value="kegalle">Kegalle</option>
+        </select>
+
+        <!-- Results count -->
+        <span id="results-count" aria-live="polite" aria-atomic="true"></span>
+      </div>
+
+      <!-- Story cards grid -->
+      <div id="stories-grid" role="list" aria-label="Story cards"></div>
+
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       OFFICERS
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section id="officers" aria-labelledby="officers-heading">
+    <div class="container">
+      <div class="section-header fade-in">
+        <p class="section-label">Our Team</p>
+        <h2 class="section-title" id="officers-heading">Browse by Officer</h2>
+        <p class="section-subtitle">Click an officer's profile card to filter the stories grid above.</p>
+      </div>
+      <!-- Rendered by JS -->
+      <div id="officers-grid" role="list" aria-label="Officer profiles"></div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       INTERVENTIONS
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <section id="interventions" aria-labelledby="interventions-heading">
+    <div class="container">
+      <div class="section-header fade-in">
+        <p class="section-label">Programme Areas</p>
+        <h2 class="section-title" id="interventions-heading">Browse by Intervention</h2>
+        <p class="section-subtitle">Select an intervention type to filter stories by programme area.</p>
+      </div>
+      <!-- Chips rendered by JS -->
+      <div id="intervention-chips" role="group" aria-label="Filter by intervention type"></div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       FOOTER
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <footer id="contact" role="contentinfo">
+    <div class="container">
+      <div class="footer-grid">
+
+        <!-- Brand -->
+        <div class="footer-brand">
+          <img src="assets/images/logo.jpg" alt="BDS Logo" class="nav-logo" style="object-fit:contain;background:none;">
+          <p>Berendina Development Services (BDS) works alongside communities
+            to build resilient livelihoods, strengthen social inclusion, and
+            promote sustainable development across Sri Lanka.</p>
+        </div>
+
+        <!-- Quick Links -->
+        <div>
+          <p class="footer-heading">Quick Links</p>
+          <ul class="footer-links">
+            <li><a href="#stories">Case Stories</a></li>
+            <li><a href="#officers">Officers</a></li>
+            <li><a href="#interventions">Interventions</a></li>
+            <li><a href="#featured">Featured Story</a></li>
+          </ul>
+        </div>
+
+        <!-- Region Info -->
+        <div>
+          <p class="footer-heading">North Central Region</p>
+          <ul class="footer-links">
+            <li><a href="#">Anuradhapura District</a></li>
+            <li><a href="#">Kegalle District</a></li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="footer-bottom">
+        <p>&copy; <span id="footer-year"></span> Berendina Development Services. All rights reserved.</p>
+        <p>BDS Case Story Book &mdash; North Central Region</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       SCRIPTS
+       ═══════════════════════════════════════════════════════════════════════ -->
+  <script src="stories.js"></script>
+  <script src="app.js"></script>
+  <script>
+    /* Footer year */
+    document.getElementById('footer-year').textContent = new Date().getFullYear();
+  </script>
+
+</body>
+</html>
