@@ -29,12 +29,12 @@ const INTERVENTIONS = {
 
 /* ─── Officer Profiles ───────────────────────────────────────────────────── */
 const OFFICERS = [
-  { id: "chandima",  name: "Chandima",  fullName: "Chandima Hettiarachchi", photo: "assets/images/Chandima.jpg" },
-  { id: "achala",    name: "Achala",    fullName: "Achala Weerasinghe",      photo: "assets/images/Achala.jpg"  },
-  { id: "pasindu",   name: "Pasindu",   fullName: "Pasindu Dilshan",         photo: "assets/images/Pasindu.jpg" },
-  { id: "fayas",     name: "Fayas",     fullName: "Mohamed Fayas",           photo: "assets/images/Fayas.jpg"   },
-  { id: "priyanka",  name: "Priyanka",  fullName: "Jayakumar Priyanka",      photo: "assets/images/Priyanka.jpg"},
-  { id: "chathurya", name: "Chathurya", fullName: "Chathurya Thathsarani",   photo: "assets/images/Chathurya.jpg"},
+  { id: "chandima",  name: "Chandima",  fullName: "Chandima Hettiarachchi", photo: "https://i.imgur.com/e6tNriE.jpeg" },
+  { id: "achala",    name: "Achala",    fullName: "Achala Weerasinghe",      photo: "https://i.imgur.com/2cvm5OS.jpeg"  },
+  { id: "pasindu",   name: "Pasindu",   fullName: "Pasindu Dilshan",         photo: "https://i.imgur.com/lO33bSP.jpeg" },
+  { id: "fayas",     name: "Fayas",     fullName: "Mohamed Fayas",           photo: "https://i.imgur.com/JKgcPDh.jpeg"   },
+  { id: "priyanka",  name: "Priyanka",  fullName: "Jayakumar Priyanka",      photo: "https://i.imgur.com/imxbxu0.jpeg"},
+  { id: "chathurya", name: "Chathurya", fullName: "Chathurya Thathsarani",   photo: "ahttps://i.imgur.com/73zMNGn.jpeg"},
 ];
 
 /* ─── Stories Array ──────────────────────────────────────────────────────── */
