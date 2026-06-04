@@ -237,7 +237,7 @@ function renderOfficerCards() {
     return `
       <div class="officer-card fade-in" data-officer-filter="${officer.name.toLowerCase()}">
         <div class="officer-avatar-wrap">
-          <img src="${officer.photo}" alt="${officer.name}" loading="lazy" onerror="this.src='assets/images/placeholder.jpg'">
+          <img src="${officer.photo}" alt="${officer.name}" loading="lazy" onerror="this.src='assets/images/placeholder.jpeg'">
         </div>
         <h4 class="officer-name">${officer.name}</h4>
         <p class="officer-stories">${count} ${count === 1 ? 'Story' : 'Stories'}</p>
