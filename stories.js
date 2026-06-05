@@ -34,7 +34,7 @@ const OFFICERS = [
   { id: "pasindu",   name: "Pasindu",   fullName: "Pasindu Dilshan",         photo: "https://i.imgur.com/lO33bSP.jpeg" },
   { id: "fayas",     name: "Fayas",     fullName: "Mohamed Fayas",           photo: "https://i.imgur.com/JKgcPDh.jpeg"   },
   { id: "priyanka",  name: "Priyanka",  fullName: "Jayakumar Priyanka",      photo: "https://i.imgur.com/imxbxu0.jpeg"},
-  { id: "chathurya", name: "Chathurya", fullName: "Chathurya Thathsarani",   photo: "https://i.imgur.com/73zMNGn.jpeg"},
+  { id: "chathurya", name: "Chathurya", fullName: "Chathurya Thathsarani",   photo: "https://i.imgur.com/UTSl7oA.jpeg"},
 ];
 
 /* ─── Stories Array ──────────────────────────────────────────────────────── */
