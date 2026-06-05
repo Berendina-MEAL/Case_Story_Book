@@ -139,8 +139,8 @@ The newly constructed house has provided the family with a safe, secure, and dig
   ],
 
   gallery: [
-    "assets/images/C002/priyanka_1.jpeg",
-    "assets/images/C002/priyanka_2.jpeg"
+    "assets/images/priyanka_1.jpeg",
+    "assets/images/priyanka_2.jpeg"
   ],
 }
 ]
