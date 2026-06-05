@@ -29,12 +29,12 @@ const INTERVENTIONS = {
 
 /* ─── Officer Profiles ───────────────────────────────────────────────────── */
 const OFFICERS = [
-  { id: "chandima",  name: "Chandima",  fullName: "Chandima Hettiarachchi", photo: "https://i.imgur.com/pLWRRxN.jpeg" },
+  { id: "chandima",  name: "Chandima",  fullName: "Chandima Hettiarachchi", photo: "https://i.imgur.com/e6tNriE.jpeg" },
   { id: "achala",    name: "Achala",    fullName: "Achala Weerasinghe",      photo: "https://i.imgur.com/2cvm5OS.jpeg"  },
   { id: "pasindu",   name: "Pasindu",   fullName: "Pasindu Dilshan",         photo: "https://i.imgur.com/lO33bSP.jpeg" },
   { id: "fayas",     name: "Fayas",     fullName: "Mohamed Fayas",           photo: "https://i.imgur.com/JKgcPDh.jpeg"   },
   { id: "priyanka",  name: "Priyanka",  fullName: "Jayakumar Priyanka",      photo: "https://i.imgur.com/imxbxu0.jpeg"},
-  { id: "chathurya", name: "Chathurya", fullName: "Chathurya Thathsarani",   photo: "https://i.imgur.com/UTSl7oA.jpeg"},
+  { id: "chathurya", name: "Chathurya", fullName: "Chathurya Thathsarani",   photo: "ahttps://i.imgur.com/73zMNGn.jpeg"},
 ];
 
 /* ─── Stories Array ──────────────────────────────────────────────────────── */
@@ -78,5 +78,71 @@ Recognizing the family's vulnerability, Berendina Development Services provided 
     ],
   },
 
-  // ── Add more stories here following the same structure ──
-];
+{
+  id:           "CS002",
+  title:        "A New Beginning Through Safe Housing",
+  officer:      "Priyanka",
+  district:     "Anuradhapura",
+  dsDivision:   "Gambirigaswewa",
+  gnDivision:   "Palugollewa",
+  intervention: "New House Construction",
+  beneficiary:  "A.N. Nalaka Aberathana",
+  projectCost:  "LKR 1,137,400.00",
+  bdsContribution: "LKR 815,250.92",
+  startDate:    "07/12/2025",
+  endDate:      "26/05/2026",
+  identifiedDate: "01/11/2025",
+  approvalDate: "26/11/2025",
+  featured:     false,
+
+  coverImage:   "assets/images/priyanka_2.jpeg",
+  beforeImage:  "assets/images/priyanka_1.jpeg",
+  afterImage:   "assets/images/priyanka_2.jpeg",
+
+  summary: `Mr. Aberathnage Nalaka Aberathana, aged 31, resides in Palugollewa Village of Gambirigaswewa Divisional Secretariat Division in Anuradhapura District together with his wife, Mrs. Liyana Arachchige Dona Nishadi Sandamali, aged 23, and their four-year-old daughter, Nethuli Wimansha Sathsarani.
+
+The family faced significant economic and social challenges. Nalaka depended on irregular daily wage labor for income, while Nishadi worked in a garment factory despite experiencing health-related difficulties in order to support the family's basic needs. Their limited income was insufficient to improve their living conditions or invest in permanent housing.
+
+Prior to the intervention, the family lived in a small clay-walled house consisting of only a single room. The structure had deteriorated significantly over time, with one wall partially collapsed and the roof leaking during rainy periods. During heavy rains, water entered the house, creating unsafe and unhealthy living conditions for the family, particularly for their young daughter. The family lacked the financial capacity to construct a new house or undertake major repairs.
+
+Recognizing the family's vulnerability, Berendina Development Services supported the construction of a new permanent house under its housing assistance programme. The project was initially identified by Ms. Menaka Dissanayake, former Community Development Coordinator of Manupa DSD, and subsequently implemented with the support of BDS and the active participation of the beneficiary family.
+
+The newly constructed house has provided the family with a safe, secure, and dignified living environment. The intervention has significantly improved their quality of life and created a stronger foundation for the wellbeing and future development of their child.`,
+
+  outcomes: [
+    "A safe and permanent house was constructed for the family.",
+    "Housing-related risks caused by structural damage and roof leakages were eliminated.",
+    "The family now enjoys improved safety, privacy, and dignity.",
+    "The young child benefits from a healthier and more secure living environment.",
+    "Reduced stress and anxiety associated with poor housing conditions.",
+    "Improved resilience and long-term stability for the household.",
+    "Enhanced family wellbeing and social inclusion within the community."
+  ],
+
+  timeline: [
+    {
+      phase: "Project Identification - 01.11.2025",
+      description: "The family's housing need was identified by Menaka Dissanayake, former Community Development Coordinator of Manupa DSD, following a household assessment."
+    },
+    {
+      phase: "Project Approval - 26.11.2025",
+      description: "The proposed housing intervention was reviewed and approved by BDS management."
+    },
+    {
+      phase: "Construction Commenced - 07.12.2025",
+      description: "Construction of the new permanent house began with contributions from both BDS and the beneficiary family."
+    },
+    {
+      phase: "Completion & Handover - 26.05.2026",
+      description: "The completed house was formally handed over to the beneficiary family, providing a safe and secure home."
+    }
+  ],
+
+  gallery: [
+    "assets/images/priyanka_1.jpeg",
+    "assets/images/priyanka_2.jpeg"
+  ],
+}
+]
+//Add here
+;
