@@ -142,6 +142,58 @@ The newly constructed house has provided the family with a safe, secure, and dig
     "assets/images/priyanka_1.jpeg",
     "assets/images/priyanka_2.jpeg"
   ],
+},
+
+{
+  id:           "CS003",
+  title:        "A Concrete Path to Opportunity",
+  officer:      "Achala",
+  district:     "Kegalle",
+  dsDivision:   "Bulathkohupitiya",
+  gnDivision:   "Kendawa",
+  intervention: "Livelihood Infrastructure",
+  beneficiary:  "Kendawa Awamangalyadara Samithiya (Community Organization)",
+  projectCost:  "LKR 997,603.53",
+  bdsContribution: "LKR 748,103.53",
+  startDate:    "DD/MM/YYYY",
+  endDate:      "DD/MM/YYYY",
+  identifiedDate: "DD/MM/YYYY",
+  approvalDate: "DD/MM/YYYY",
+  featured:     false,
+
+  coverImage:   "assets/images/kendawa_after.jpg",
+  beforeImage:  "assets/images/kendawa_before.jpg",
+  afterImage:   "assets/images/kendawa_after.jpg",
+
+  summary: `The Kendawa Grama Niladhari Division in Bulathkohupitiya Divisional Secretariat Division, Kegalle District, is home to a close-knit farming community connected to the outside world by a single vital artery: the Pahala Kendawa Road. This rural access road links residents to the Bulathkohupitiya–Dedugala Main Road, serving roughly 35 households directly and more than 150 daily users, with over 200 additional people from neighboring villages such as Narangala, Maussawa, and Kendawa relying on it to reach schools, workplaces, hospitals, and markets.
+
+For years, heavy vehicle traffic and the absence of proper maintenance had left the road badly deteriorated. Villagers faced difficult and unsafe daily travel, farmers transporting tea, rubber, coconut, and pepper struggled to reach the market in time, and an ornamental fish farm operating along the route saw its supply chain disrupted. School children faced unsafe journeys and frequent absenteeism during the rainy season, slippery and uneven surfaces caused repeated accidents, and emergency medical access was often delayed when it mattered most.
+
+Recognizing both the urgency and the community's willingness to act, Berendina Development Services partnered with the Kendawa Awamangalyadara Samithiya to construct approximately 300 feet of reinforced concrete road, 8 feet wide, replacing the most severely damaged section. The project was built on a community-driven cost-sharing model: BDS contributed 75% of the total cost, while the community contributed the remaining 25% through skilled and unskilled labour, construction materials, and voluntary participation. Construction was overseen throughout by a BDS-appointed Technical Officer to ensure the work met technical standards and the agreed Bill of Quantities.
+
+The result is a road transformed — smooth, durable, and accessible in every season. It withstands heavy rainfall without erosion, carries agricultural produce to market more reliably, and gives school children, elderly residents, and emergency vehicles safer, faster passage. Beyond the physical improvement, the project has strengthened the community's sense of ownership and collective capability, standing today as a model of what shared investment between an NGO and a determined community can achieve.`,
+
+  outcomes: [
+    "Safe, all-weather road access for approximately 35 households and 150+ daily users.",
+    "Reduced transportation costs and travel time for over 200 residents from surrounding villages.",
+    "Improved market access for tea, rubber, coconut, and pepper farmers, and the local ornamental fish farm.",
+    "Safer daily travel for school children, reducing rainy-season absenteeism.",
+    "Faster, more reliable access for emergency medical transport.",
+    "Fewer accidents from slippery, uneven road surfaces.",
+    "Strengthened community ownership through direct labour and resource contribution alongside BDS funding.",
+  ],
+
+  timeline: [
+    { phase: "Needs Assessment - DD/MM/YYYY",       description: "The deteriorated condition of Pahala Kendawa Road and its impact on the community was identified in partnership with the Kendawa Awamangalyadara Samithiya." },
+    { phase: "Project Approval - DD/MM/YYYY",       description: "The road development proposal, including the community cost-sharing plan, was reviewed and approved by BDS management." },
+    { phase: "Construction Begins - DD/MM/YYYY",    description: "Construction of the 300-foot reinforced concrete road commenced, with the community contributing labour and materials alongside BDS funding." },
+    { phase: "Completion & Handover - DD/MM/YYYY",  description: "The completed concrete road was handed over to the community, providing safe, all-weather access for residents, farmers, and students." },
+  ],
+
+  gallery: [
+    "assets/images/kendawa_before.jpg",
+    "assets/images/kendawa_after.jpg"
+  ],
 }
 ]
 //Add here
