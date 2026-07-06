@@ -155,10 +155,10 @@ The newly constructed house has provided the family with a safe, secure, and dig
   beneficiary:  "Kendawa Awamangalyadara Samithiya (Community Organization)",
   projectCost:  "LKR 997,603.53",
   bdsContribution: "LKR 748,103.53",
-  startDate:    "DD/MM/YYYY",
-  endDate:      "DD/MM/YYYY",
-  identifiedDate: "DD/MM/YYYY",
-  approvalDate: "DD/MM/YYYY",
+  startDate:    "01/04/2026",
+  endDate:      "07/05/2026",
+  identifiedDate: "08/01/2026",
+  approvalDate: "20/03/2026",
   featured:     false,
 
   coverImage:   "assets/images/kendawa_after.jpg",
@@ -184,10 +184,10 @@ The result is a road transformed — smooth, durable, and accessible in every se
   ],
 
   timeline: [
-    { phase: "Needs Assessment - DD/MM/YYYY",       description: "The deteriorated condition of Pahala Kendawa Road and its impact on the community was identified in partnership with the Kendawa Awamangalyadara Samithiya." },
-    { phase: "Project Approval - DD/MM/YYYY",       description: "The road development proposal, including the community cost-sharing plan, was reviewed and approved by BDS management." },
-    { phase: "Construction Begins - DD/MM/YYYY",    description: "Construction of the 300-foot reinforced concrete road commenced, with the community contributing labour and materials alongside BDS funding." },
-    { phase: "Completion & Handover - DD/MM/YYYY",  description: "The completed concrete road was handed over to the community, providing safe, all-weather access for residents, farmers, and students." },
+    { phase: "Needs Assessment - 08/01/2026",       description: "The deteriorated condition of Pahala Kendawa Road and its impact on the community was identified in partnership with the Kendawa Awamangalyadara Samithiya." },
+    { phase: "Project Approval - 20/03/2026",       description: "The road development proposal, including the community cost-sharing plan, was reviewed and approved by BDS management." },
+    { phase: "Construction Begins - 01/04/2026",    description: "Construction of the 300-foot reinforced concrete road commenced, with the community contributing labour and materials alongside BDS funding." },
+    { phase: "Completion & Handover - 19/05/2026",  description: "The completed concrete road was handed over to the community, providing safe, all-weather access for residents, farmers, and students." },
   ],
 
   gallery: [
