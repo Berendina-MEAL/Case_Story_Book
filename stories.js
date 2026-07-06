@@ -51,7 +51,7 @@ const STORIES = [
     projectCost:  "LKR 725,000.00",          
     startDate:    "12/09/2025",          
     endDate:      "25/05/2026",          
-    featured:     true,
+    featured:     false,
     coverImage:   "assets/images/chandima_2.jpg",
     beforeImage:  "assets/images/chandima_1.jpg",
     afterImage:   "assets/images/chandima_2.jpg",
@@ -159,7 +159,7 @@ The newly constructed house has provided the family with a safe, secure, and dig
   endDate:      "07/05/2026",
   identifiedDate: "08/01/2026",
   approvalDate: "20/03/2026",
-  featured:     false,
+  featured:     true,
 
   coverImage:   "assets/images/kendawa_after.jpg",
   beforeImage:  "assets/images/kendawa_before.jpg",
