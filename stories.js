@@ -155,15 +155,15 @@ The newly constructed house has provided the family with a safe, secure, and dig
   beneficiary:  "Kendawa Awamangalyadara Samithiya (Community Organization)",
   projectCost:  "LKR 997,603.53",
   bdsContribution: "LKR 748,103.53",
-  startDate:    "01/04/2026",
-  endDate:      "07/05/2026",
-  identifiedDate: "08/01/2026",
-  approvalDate: "20/03/2026",
-  featured:     true,
+  startDate:    "DD/MM/YYYY",
+  endDate:      "DD/MM/YYYY",
+  identifiedDate: "DD/MM/YYYY",
+  approvalDate: "DD/MM/YYYY",
+  featured:     false,
 
-  coverImage:   "assets/images/kendawa_after.jpg",
-  beforeImage:  "assets/images/kendawa_before.jpg",
-  afterImage:   "assets/images/kendawa_after.jpg",
+  coverImage:   "assets/images/kendawa_after.jpeg",
+  beforeImage:  "assets/images/kendawa_before.jpeg",
+  afterImage:   "assets/images/kendawa_after.jpeg",
 
   summary: `The Kendawa Grama Niladhari Division in Bulathkohupitiya Divisional Secretariat Division, Kegalle District, is home to a close-knit farming community connected to the outside world by a single vital artery: the Pahala Kendawa Road. This rural access road links residents to the Bulathkohupitiya–Dedugala Main Road, serving roughly 35 households directly and more than 150 daily users, with over 200 additional people from neighboring villages such as Narangala, Maussawa, and Kendawa relying on it to reach schools, workplaces, hospitals, and markets.
 
@@ -184,15 +184,67 @@ The result is a road transformed — smooth, durable, and accessible in every se
   ],
 
   timeline: [
-    { phase: "Needs Assessment - 08/01/2026",       description: "The deteriorated condition of Pahala Kendawa Road and its impact on the community was identified in partnership with the Kendawa Awamangalyadara Samithiya." },
-    { phase: "Project Approval - 20/03/2026",       description: "The road development proposal, including the community cost-sharing plan, was reviewed and approved by BDS management." },
-    { phase: "Construction Begins - 01/04/2026",    description: "Construction of the 300-foot reinforced concrete road commenced, with the community contributing labour and materials alongside BDS funding." },
-    { phase: "Completion & Handover - 19/05/2026",  description: "The completed concrete road was handed over to the community, providing safe, all-weather access for residents, farmers, and students." },
+    { phase: "Needs Assessment - DD/MM/YYYY",       description: "The deteriorated condition of Pahala Kendawa Road and its impact on the community was identified in partnership with the Kendawa Awamangalyadara Samithiya." },
+    { phase: "Project Approval - DD/MM/YYYY",       description: "The road development proposal, including the community cost-sharing plan, was reviewed and approved by BDS management." },
+    { phase: "Construction Begins - DD/MM/YYYY",    description: "Construction of the 300-foot reinforced concrete road commenced, with the community contributing labour and materials alongside BDS funding." },
+    { phase: "Completion & Handover - DD/MM/YYYY",  description: "The completed concrete road was handed over to the community, providing safe, all-weather access for residents, farmers, and students." },
   ],
 
   gallery: [
-    "assets/images/kendawa_before.jpg",
-    "assets/images/kendawa_after.jpg"
+    "assets/images/kendawa_before.jpeg",
+    "assets/images/kendawa_after.jpeg"
+  ],
+},
+
+{
+  id:           "CS004",
+  title:        "A Safe Crossing for Mithragama",
+  officer:      "Chandima",
+  district:     "Kegalle",
+  dsDivision:   "Dehiowita",
+  gnDivision:   "Pannila",
+  intervention: "Livelihood Infrastructure",
+  beneficiary:  "Pannila Dharmagunawardhana Rural Development Society",
+  projectCost:  "LKR 298,540.15",
+  bdsContribution: "LKR 236,040.15",
+  startDate:    "DD/MM/YYYY",
+  endDate:      "DD/MM/YYYY",
+  identifiedDate: "DD/MM/YYYY",
+  approvalDate: "DD/MM/YYYY",
+  featured:     true,
+
+  coverImage:   "assets/images/mithragama_bridge_after.jpg",
+  beforeImage:  "assets/images/mithragama_bridge_before.jpg",
+  afterImage:   "assets/images/mithragama_bridge_after.jpg",
+
+  summary: `Mithragama is a small village within the Pannila Grama Niladhari Division of Dehiowita Divisional Secretariat, Kegalle District, roughly 26 kilometres from Dehiowita town. For years, the only way to cross the canal on a side road here was a footbridge built from Kithul planks — a structure that had been quietly rotting under the weight of daily use, with villagers replacing broken planks again and again just to keep it passable.
+
+The bridge sits more than 15 feet above the canal below, and the danger was not hypothetical: one villager had already fallen through when the aging planks gave way. Around 8 families, close to 30 people, depend on this crossing every day, including 9 school children who cross it on their way to class. Tea pickers, landowners, daily wage workers, and residents attending to everyday needs all rely on the same fragile planks, and the risk only worsens in the rain, when the wood turns slick and unstable.
+
+The community did not wait passively for help. The Pannila Dharmagunawardhana Rural Development Society — a trusted local group with a track record of building roads, bridges, and other welfare infrastructure in the area, and a long-standing training partner of Berendina Development Services — came forward on behalf of the villagers to request financial support for a permanent footbridge.
+
+Berendina Development Services partnered with the Society to fund the construction of a safe, durable footbridge, with BDS covering the majority of the estimated cost and the community contributing the remainder. The new bridge means Mithragama's residents, especially its schoolchildren, can now cross the canal without fear, and farmers can carry their harvests to market without the danger and delay the old crossing once forced upon them.`,
+
+  outcomes: [
+    "Safe, reliable daily crossing for approximately 8 families and 30 residents.",
+    "Removal of fall risk from a crossing point more than 15 feet above the canal.",
+    "Safer daily travel for 9 school children on their way to and from class.",
+    "Uninterrupted transport of harvested crops, including tea, to market.",
+    "Reduced travel disruption during rainy weather.",
+    "Strengthened trust and partnership between BDS and the Pannila Dharmagunawardhana Rural Development Society.",
+    "A durable structure replacing a temporary, repeatedly-repaired plank bridge.",
+  ],
+
+  timeline: [
+    { phase: "Needs Assessment - DD/MM/YYYY",       description: "The unsafe condition of the Kithul-plank footbridge and its risk to villagers was identified following a request from the Pannila Dharmagunawardhana Rural Development Society." },
+    { phase: "Project Approval - DD/MM/YYYY",       description: "The footbridge construction proposal, including the community's financial contribution, was reviewed and approved by BDS management." },
+    { phase: "Construction Begins - DD/MM/YYYY",    description: "Construction of the permanent footbridge began, led by the Rural Development Society with BDS financial support." },
+    { phase: "Completion & Handover - DD/MM/YYYY",  description: "The completed footbridge was handed over to the Mithragama community, providing safe passage across the canal for residents, farmers, and schoolchildren." },
+  ],
+
+  gallery: [
+    "assets/images/mithragama_bridge_before.jpg",
+    "assets/images/mithragama_bridge_after.jpg"
   ],
 }
 ]
