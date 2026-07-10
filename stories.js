@@ -161,9 +161,9 @@ The newly constructed house has provided the family with a safe, secure, and dig
   approvalDate: "DD/MM/YYYY",
   featured:     false,
 
-  coverImage:   "assets/images/kendawa_after.jpeg",
-  beforeImage:  "assets/images/kendawa_before.jpeg",
-  afterImage:   "assets/images/kendawa_after.jpeg",
+  coverImage:   "assets/images/kendawa_after.jpg",
+  beforeImage:  "assets/images/kendawa_before.jpg",
+  afterImage:   "assets/images/kendawa_after.jpg",
 
   summary: `The Kendawa Grama Niladhari Division in Bulathkohupitiya Divisional Secretariat Division, Kegalle District, is home to a close-knit farming community connected to the outside world by a single vital artery: the Pahala Kendawa Road. This rural access road links residents to the Bulathkohupitiya–Dedugala Main Road, serving roughly 35 households directly and more than 150 daily users, with over 200 additional people from neighboring villages such as Narangala, Maussawa, and Kendawa relying on it to reach schools, workplaces, hospitals, and markets.
 
@@ -191,8 +191,8 @@ The result is a road transformed — smooth, durable, and accessible in every se
   ],
 
   gallery: [
-    "assets/images/kendawa_before.jpeg",
-    "assets/images/kendawa_after.jpeg"
+    "assets/images/kendawa_before.jpg",
+    "assets/images/kendawa_after.jpg"
   ],
 },
 
