@@ -91,8 +91,6 @@ Recognizing the family's vulnerability, Berendina Development Services provided 
   bdsContribution: "LKR 815,250.92",
   startDate:    "07/12/2025",
   endDate:      "26/05/2026",
-  identifiedDate: "01/11/2025",
-  approvalDate: "26/11/2025",
   featured:     false,
 
   coverImage:   "assets/images/priyanka_2.jpeg",
@@ -157,8 +155,6 @@ The newly constructed house has provided the family with a safe, secure, and dig
   bdsContribution: "LKR 748,103.53",
   startDate:    "01/04/2026",
   endDate:      "07/05/2026",
-  identifiedDate: "08/01/2026",
-  approvalDate: "20/03/2026",
   featured:     false,
 
   coverImage:   "assets/images/kendawa_after.jpg",
@@ -209,8 +205,6 @@ The result is a road transformed — smooth, durable, and accessible in every se
   bdsContribution: "LKR 236,040.15",
   startDate:    "15/03/2026",
   endDate:      "02/06/2026",
-  identifiedDate: "23/06/2025",
-  approvalDate: "03/05/2026",
   featured:     true,
 
   coverImage:   "assets/images/mithragama_bridge_after.jpg",
