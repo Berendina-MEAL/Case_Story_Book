@@ -207,10 +207,10 @@ The result is a road transformed — smooth, durable, and accessible in every se
   beneficiary:  "Pannila Dharmagunawardhana Rural Development Society",
   projectCost:  "LKR 298,540.15",
   bdsContribution: "LKR 236,040.15",
-  startDate:    "DD/MM/YYYY",
-  endDate:      "DD/MM/YYYY",
-  identifiedDate: "DD/MM/YYYY",
-  approvalDate: "DD/MM/YYYY",
+  startDate:    "15/03/2026",
+  endDate:      "02/06/2026",
+  identifiedDate: "23/06/2025",
+  approvalDate: "03/05/2026",
   featured:     true,
 
   coverImage:   "assets/images/mithragama_bridge_after.jpg",
@@ -236,10 +236,10 @@ Berendina Development Services partnered with the Society to fund the constructi
   ],
 
   timeline: [
-    { phase: "Needs Assessment - DD/MM/YYYY",       description: "The unsafe condition of the Kithul-plank footbridge and its risk to villagers was identified following a request from the Pannila Dharmagunawardhana Rural Development Society." },
-    { phase: "Project Approval - DD/MM/YYYY",       description: "The footbridge construction proposal, including the community's financial contribution, was reviewed and approved by BDS management." },
-    { phase: "Construction Begins - DD/MM/YYYY",    description: "Construction of the permanent footbridge began, led by the Rural Development Society with BDS financial support." },
-    { phase: "Completion & Handover - DD/MM/YYYY",  description: "The completed footbridge was handed over to the Mithragama community, providing safe passage across the canal for residents, farmers, and schoolchildren." },
+    { phase: "Needs Assessment - 23/06/2025",       description: "The unsafe condition of the Kithul-plank footbridge and its risk to villagers was identified following a request from the Pannila Dharmagunawardhana Rural Development Society." },
+    { phase: "Project Approval - 03/05/2026",       description: "The footbridge construction proposal, including the community's financial contribution, was reviewed and approved by BDS management." },
+    { phase: "Construction Begins - 15/03/2026",    description: "Construction of the permanent footbridge began, led by the Rural Development Society with BDS financial support." },
+    { phase: "Completion & Handover - 02/06/2026",  description: "The completed footbridge was handed over to the Mithragama community, providing safe passage across the canal for residents, farmers, and schoolchildren." },
   ],
 
   gallery: [
