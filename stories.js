@@ -205,7 +205,7 @@ The result is a road transformed — smooth, durable, and accessible in every se
   bdsContribution: "LKR 236,040.15",
   startDate:    "15/03/2026",
   endDate:      "02/06/2026",
-  featured:     true,
+  featured:     false,
 
   coverImage:   "assets/images/mithragama_bridge_after.jpg",
   beforeImage:  "assets/images/mithragama_bridge_before.jpg",
@@ -239,6 +239,59 @@ Berendina Development Services partnered with the Society to fund the constructi
   gallery: [
     "assets/images/mithragama_bridge_before.jpg",
     "assets/images/mithragama_bridge_after.jpg"
+  ],
+},
+
+{
+  id:           "CS005",
+  title:        "A Safe Bridge to Opportunity and Essential Services",
+  officer:      "Achala",
+  district:     "Kegalle",
+  dsDivision:   "Bulathkohupitiya",
+  gnDivision:   "Neluwakkana (131)",
+  intervention: "Livelihood Infrastructure",
+  beneficiary:  "Neluwakkana South Death Donation Society (Community Organization)",
+  projectCost:  "LKR 592,046.17",
+  bdsContribution: "LKR 436,046.17",
+  startDate:    "01/04/2026",
+  endDate:      "19/06/2026",
+  featured:     true,
+
+  coverImage:   "https://i.imgur.com/6zx7Iza.jpeg",
+  beforeImage:  "https://i.imgur.com/KUThquq.jpeg",
+  afterImage:   "https://i.imgur.com/6zx7Iza.jpeg",
+
+  summary: `The Neluwakkana Grama Niladhari Division (131) in Bulathkohupitiya DS Division, Kegalle District, is a rural community of around 148 families, close to 650 people, whose daily lives depend on a single bridge crossing the Ritigaha Oya. The bridge offers a vital short route into the village, particularly during the rainy season when the main road is frequently cut off by flooding, making it an essential link for school children, farmers, government officials, and the wider community.
+
+During the previous rainy season, a section of the bridge gave way. Villagers made do with a temporary repair, patching the broken section with wooden planks, but the structure continued to deteriorate. Its handrail was in poor condition throughout and entirely missing across the damaged section, creating serious safety risks, especially for the roughly 45 school children and 35 farmers who rely on the crossing during the rainy months.
+
+The damage reached well beyond physical safety. Farmers transporting tea, pepper, cinnamon, coffee, and other produce struggled to reach market, while residents faced higher transport costs during bad weather just to reach schools, healthcare facilities, and government offices. Most critically, the bridge is the village's only route for emergency relief during floods, so its disrepair put the community's access to urgent assistance at risk in exactly the moments it was needed most.
+
+Recognizing the importance of restoring this vital connection, Berendina Development Services partnered with the Neluwakkana South Death Donation Society to reconstruct the damaged bridge. The project followed a community-driven cost-sharing model, with the community contributing 26% of the cost through skilled and unskilled labour and construction materials, and BDS providing the remaining 74%. Construction quality and progress were supervised throughout by a BDS-appointed Technical Officer.
+
+The reconstructed bridge, complete with durable handrails, now gives Neluwakkana's residents safe, reliable access throughout the year. It supports children's journeys to school, helps farmers move their harvests safely to market, restores access to essential services, and keeps the village connected to emergency relief during floods. The project stands as a clear example of what community participation and shared responsibility can achieve when paired with committed technical support.`,
+
+  outcomes: [
+    "Safe and reliable year-round access to the village for approximately 148 families.",
+    "Improved safety for around 45 school children who cross the bridge during the rainy season.",
+    "Better market access for farmers transporting tea, pepper, cinnamon, coffee, and other produce.",
+    "Reduced transportation difficulties and costs during adverse weather.",
+    "Improved access to schools, healthcare facilities, and government offices.",
+    "A structurally safer crossing with durable, previously-missing handrails.",
+    "Continued village access during floods, supporting the delivery of emergency relief.",
+    "Strengthened community ownership through skilled and unskilled labour contributions.",
+  ],
+
+  timeline: [
+    { phase: "Needs Assessment - 08/01/2026",       description: "The damaged condition of the bridge across the Neluwakkana Ritigaha Oya and its impact on the community was identified, and the project proposal was submitted to BDS." },
+    { phase: "Project Approval - 20/03/2026",       description: "A technical assessment was obtained through the Divisional Secretariat and the reconstruction proposal, including the community's cost-sharing contribution, was reviewed and approved by BDS management." },
+    { phase: "Construction Begins - 01/04/2026",    description: "Reconstruction of the bridge commenced, with the community contributing labour and materials through Shramadhana activities alongside BDS funding and technical supervision." },
+    { phase: "Completion & Handover - 23/06/2026",  description: "The reconstructed bridge was completed and handed over to the community, with continued maintenance and follow-up by the CBO and BDS." },
+  ],
+
+  gallery: [
+    "https://i.imgur.com/KUThquq.jpeg",
+    "https://i.imgur.com/6zx7Iza.jpeg"
   ],
 }
 ]
