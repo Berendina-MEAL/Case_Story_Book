@@ -255,7 +255,7 @@ Berendina Development Services partnered with the Society to fund the constructi
   bdsContribution: "LKR 436,046.17",
   startDate:    "01/04/2026",
   endDate:      "19/06/2026",
-  featured:     true,
+  featured:     false,
 
   coverImage:   "https://i.imgur.com/6zx7Iza.jpeg",
   beforeImage:  "https://i.imgur.com/KUThquq.jpeg",
@@ -293,7 +293,81 @@ The reconstructed bridge, complete with durable handrails, now gives Neluwakkana
     "https://i.imgur.com/KUThquq.jpeg",
     "https://i.imgur.com/6zx7Iza.jpeg"
   ],
-}
+},
+
+
+{
+    id:           "CS006",
+    title:        "From Mud Tracks to Market: Paving the Way for Honalagala",
+    officer:      "Chandima",     
+    district:     "Kegalle",
+    dsDivision:   "Dehiowita",
+    gnDivision:   "Imbulpitiya",
+    intervention: "Livelihood Infrastructure",
+    beneficiary:  "Honalagala Arabekkanda Anyonyadara Society",
+    projectCost:  "LKR 2,241,320.10",
+    startDate:    "15/12/2024",
+    endDate:      "26/02/2026",
+    featured:     true,
+    coverImage:   "https://i.imgur.com/BlOwtHz.jpeg",   
+    beforeImage:  "https://i.imgur.com/viHIqFy.jpeg", 
+    afterImage:   "https://i.imgur.com/BlOwtHz.jpeg", 
+ 
+    summary: `Honalagala is a quiet farming village tucked within Imbulpitiya Grama Niladhari Division, one of the targeted areas for BDS project implementation in Dehiowita Divisional Secretariat, Kegalle District. Around 350 people from 75 families call it home — families who grow tea, rubber, cinnamon, and other crops, and whose children walk to school each morning along the same road that connects the village to the outside world.
+ 
+That road — a 4-kilometre stretch linking Honalagala to the Manikkanda bus halt on the Imbulpitiya–Parakaduwa main road — had long been the community's single lifeline and its greatest burden. Shared by residents of Honalagala and Arabekkanda, as well as neighboring villagers who travel through for daily wage work, temple visits, and plantation activities, the road carried far more traffic than its condition could sustain. Heavy use without proper maintenance had left much of it deeply rutted and unstable. Vehicles that risked the route charged premium transport rates to offset the wear on their tyres and suspensions, and many simply refused to enter at all.
+ 
+The consequences reached into every corner of daily life. Farmers who grow tea — the village's primary source of income — faced the indignity of carrying their harvests on their heads to meet collection vehicles at the road's edge, because the tea leaves lorries could barely navigate even the passable sections. Rubber tappers, cinnamon growers, and other crop farmers shared the same struggle. For the nearly 40 school children who walked this road each day, it was not just an inconvenience — uneven, waterlogged surfaces made the journey genuinely unsafe, with the risk rising sharply during the rainy season. Patients needing emergency transport and residents attending to everyday needs faced similar dangers. Despite repeated appeals to relevant government institutions, no meaningful intervention had followed.
+ 
+It was the Honalagala Arabekkanda Anyonyadara Society — the community's own organized body — that took the next step, formally requesting support from Berendina Development Services to address what no institution had been willing to tackle. BDS responded by funding the concreting of the road's most damaged sections, working in two phases to ensure the work met the community's most critical needs.
+ 
+The first phase, completed between December 2024 and January 2025, concreted a 390-foot stretch, 8 feet wide, from the area near the Cinnamon Gate to Wathuragala, at a total project cost of LKR 1,241,500.00 — of which BDS contributed LKR 936,500.00 and the community contributed LKR 305,000.00. The second phase, completed between December 2025 and February 2026, extended the work by a further 246 feet from Wathuragala onwards, at a project cost of LKR 999,820.10, with BDS contributing LKR 735,720.10 and the community contributing LKR 264,100.00. Together, the two phases transformed the road's most critical bottlenecks into smooth, durable concrete surfaces that hold firm in all seasons.
+ 
+Where mud and uncertainty once marked the daily commute, Honalagala's residents now walk and drive on solid ground — and the difference is felt in every bag of tea that reaches the collection vehicle on time, in every school child who arrives safely, and in every family that no longer fears what the next rainy season will bring.`,
+ 
+    outcomes: [
+      "Safe, all-weather road access for approximately 350 residents across 75 families, including neighboring village users.",
+      "Reduced transportation costs and travel time for over 400 people who rely on the road daily.",
+      "Improved market access for tea, rubber, cinnamon, and other crop farmers — with harvests now reachable by collection vehicles.",
+      "Safer daily travel for nearly 40 school children, significantly reducing rainy-season risk.",
+      "Reliable access for patients and emergency transport during adverse weather.",
+      "Reduced vehicle reluctance, leading to improved transport availability and fairer pricing.",
+      "Strengthened community agency through formal advocacy and active cost-sharing with BDS.",
+    ],
+ 
+    timeline: [
+      {
+        phase:       "Stage 1 – Project Identified: 01/08/2024",
+        description: "The community's road development need was formally identified. The Honalagala Arabekkanda Anyonyadara Society submitted a request to BDS to concrete the most severely damaged sections of the Honalagala road, from the Cinnamon Gate area to Wathuragala.",
+      },
+      {
+        phase:       "Stage 1 – Project Approved: 24/11/2024",
+        description: "BDS management reviewed and approved the first-phase proposal. Total estimated project cost: LKR 1,241,500.00 | Community contribution: LKR 305,000.00 | BDS contribution: LKR 936,500.00.",
+      },
+      {
+        phase:       "Stage 1 – Construction: 15/12/2024 – 16/01/2025",
+        description: "Concreting of the first section commenced and was completed — 390 feet in length and 8 feet in width, from near the Cinnamon Gate to Wathuragala — providing an immediate improvement to the road's most critical stretch.",
+      },
+      {
+        phase:       "Stage 2 – Project Identified: 10/11/2025",
+        description: "Building on the success of the first phase, the community and BDS identified the next most-damaged section — from Wathuragala onwards — for a second round of road development.",
+      },
+      {
+        phase:       "Stage 2 – Project Approved: 26/11/2025",
+        description: "The second-phase proposal was reviewed and approved by BDS management. Total estimated project cost: LKR 999,820.10 | Community contribution: LKR 264,100.00 | BDS contribution: LKR 735,720.10.",
+      },
+      {
+        phase:       "Stage 2 – Construction: 01/12/2025 – 26/02/2026",
+        description: "The second phase of concreting was carried out and completed — 246 feet in length and 8 feet in width, extending the improved road from Wathuragala onwards — bringing the total concreted distance to 636 feet across both phases.",
+      },
+    ],
+ 
+    gallery: [
+      "https://i.imgur.com/viHIqFy.jpeg",   // Replace with actual images
+      "https://i.imgur.com/BlOwtHz.jpeg",
+    ],
+  },
+  
 ]
 //Add here
 ;
