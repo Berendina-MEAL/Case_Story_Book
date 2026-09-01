@@ -314,17 +314,17 @@ The reconstructed bridge, complete with durable handrails, now gives Neluwakkana
     afterImage:   "https://i.imgur.com/BlOwtHz.jpeg", 
  
     summary: `Honalagala is a quiet farming village tucked within Imbulpitiya Grama Niladhari Division, one of the targeted areas for BDS project implementation in Dehiowita Divisional Secretariat, Kegalle District. Around 350 people from 75 families call it home — families who grow tea, rubber, cinnamon, and other crops, and whose children walk to school each morning along the same road that connects the village to the outside world.
- 
+
 That road — a 4-kilometre stretch linking Honalagala to the Manikkanda bus halt on the Imbulpitiya–Parakaduwa main road — had long been the community's single lifeline and its greatest burden. Shared by residents of Honalagala and Arabekkanda, as well as neighboring villagers who travel through for daily wage work, temple visits, and plantation activities, the road carried far more traffic than its condition could sustain. Heavy use without proper maintenance had left much of it deeply rutted and unstable. Vehicles that risked the route charged premium transport rates to offset the wear on their tyres and suspensions, and many simply refused to enter at all.
- 
+
 The consequences reached into every corner of daily life. Farmers who grow tea — the village's primary source of income — faced the indignity of carrying their harvests on their heads to meet collection vehicles at the road's edge, because the tea leaves lorries could barely navigate even the passable sections. Rubber tappers, cinnamon growers, and other crop farmers shared the same struggle. For the nearly 40 school children who walked this road each day, it was not just an inconvenience — uneven, waterlogged surfaces made the journey genuinely unsafe, with the risk rising sharply during the rainy season. Patients needing emergency transport and residents attending to everyday needs faced similar dangers. Despite repeated appeals to relevant government institutions, no meaningful intervention had followed.
- 
+
 It was the Honalagala Arabekkanda Anyonyadara Society — the community's own organized body — that took the next step, formally requesting support from Berendina Development Services to address what no institution had been willing to tackle. BDS responded by funding the concreting of the road's most damaged sections, working in two phases to ensure the work met the community's most critical needs.
- 
+
 The first phase, completed between December 2024 and January 2025, concreted a 390-foot stretch, 8 feet wide, from the area near the Cinnamon Gate to Wathuragala, at a total project cost of LKR 1,241,500.00 — of which BDS contributed LKR 936,500.00 and the community contributed LKR 305,000.00. The second phase, completed between December 2025 and February 2026, extended the work by a further 246 feet from Wathuragala onwards, at a project cost of LKR 999,820.10, with BDS contributing LKR 735,720.10 and the community contributing LKR 264,100.00. Together, the two phases transformed the road's most critical bottlenecks into smooth, durable concrete surfaces that hold firm in all seasons.
- 
+
 Where mud and uncertainty once marked the daily commute, Honalagala's residents now walk and drive on solid ground — and the difference is felt in every bag of tea that reaches the collection vehicle on time, in every school child who arrives safely, and in every family that no longer fears what the next rainy season will bring.`,
- 
+
     outcomes: [
       "Safe, all-weather road access for approximately 350 residents across 75 families, including neighboring village users.",
       "Reduced transportation costs and travel time for over 400 people who rely on the road daily.",
