@@ -308,7 +308,7 @@ The reconstructed bridge, complete with durable handrails, now gives Neluwakkana
     projectCost:  "LKR 2,241,320.10",
     startDate:    "15/12/2024",
     endDate:      "26/02/2026",
-    featured:     true,
+    featured:     false,
     coverImage:   "https://i.imgur.com/BlOwtHz.jpeg",   
     beforeImage:  "https://i.imgur.com/viHIqFy.jpeg", 
     afterImage:   "https://i.imgur.com/BlOwtHz.jpeg", 
