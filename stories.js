@@ -4,7 +4,7 @@
  *
  * To add a new story, append a new object to the STORIES array below.
  * Intervention names must match a key in INTERVENTIONS.
- */
+ */ 
 
 /* ─── Intervention Catalogue ────────────────────────────────────────────── */
 const INTERVENTIONS = {
